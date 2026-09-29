@@ -56,10 +56,4 @@ Essa organização facilita a navegação e diferencia visualmente cada seção 
 
 O objetivo é desenvolver um aplicativo Flutter utilizando **abas de navegação**, praticando a organização da interface em diferentes seções e o gerenciamento do estado necessário para controlar a navegação entre elas.
 
-## ▶️ Como executar
 
-1. Tenha o **Flutter SDK** instalado.
-2. Clone este repositório:
-
-```bash
-git clone https://github.com/SEU-USUARIO/app_abas_flutter.git
